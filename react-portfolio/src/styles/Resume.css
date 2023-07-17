@@ -1,0 +1,30 @@
+.resume-section {
+  text-align: center;
+}
+
+.resume-section a {
+  display: inline-block;
+  margin: 20px 0;
+  font-size: 18px;
+  color: #333;
+  text-decoration: none;
+}
+
+.resume-section a:hover {
+  color: #666;
+}
+
+.resume-section h3 {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+.resume-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.resume-section li {
+  margin-bottom: 10px;
+  font-size: 18px;
+}

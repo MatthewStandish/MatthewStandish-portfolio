@@ -1,12 +1,13 @@
 import React from "react";
 import "../styles/About.css";
+import avatarImage from "../assets/images/avatar.jpg";
 
 const About = () => {
   return (
     <section>
       <h2>About Me</h2>
-      <div>
-        <img src="../assets/images/avatar.jpg" alt="Avatar" />
+      <div className="about-content">
+        <img src={avatarImage} alt="Avatar" />
         <p>
           I am currently enrolled in Georgia Tech's full-stack web development
           bootcamp. Prior to this, I earned an Adobe Certified Associate

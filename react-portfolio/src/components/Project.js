@@ -2,17 +2,19 @@ import React from "react";
 
 const Project = ({ title, imageSrc, liveLink, repoLink }) => {
   return (
-    <div>
+    <div className="project-container">
       <h3>{title}</h3>
-      <img src={imageSrc} alt={title} />
+      <div className="image-container">
+        <img src={imageSrc} alt={title} className="project-image" />
+      </div>
       <p>
         <a href={liveLink} target="_blank" rel="noopener noreferrer">
-          Live Demo
+          Live Link
         </a>
       </p>
       <p>
         <a href={repoLink} target="_blank" rel="noopener noreferrer">
-          GitHub Repository
+          Repo Link
         </a>
       </p>
     </div>

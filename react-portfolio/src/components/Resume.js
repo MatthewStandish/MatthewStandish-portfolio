@@ -1,8 +1,9 @@
 import React from "react";
+import "../styles/Resume.css";
 
 const Resume = () => {
   return (
-    <section>
+    <section className="resume-section">
       <h2>Resume</h2>
       <div>
         <a href="path/to/resume.pdf" target="_blank" rel="noopener noreferrer">
