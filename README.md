@@ -4,7 +4,7 @@
 
 ## Description
 
-[This is my portfolio made with React.js.](https://matthewstandish.github.io/matthewstandish-portfolio/)
+[This is my portfolio made with React.js.](https://matthewstandish.github.io/MatthewStandish-portfolio/)
 
 ## License
 
