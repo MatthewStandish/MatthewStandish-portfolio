@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MatthewStandish-portfolio/static/css/main.e2860699.css",
+    "main.js": "/MatthewStandish-portfolio/static/js/main.bc70a1ed.js",
+    "static/js/787.a2cb61a6.chunk.js": "/MatthewStandish-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/caesar.png": "/MatthewStandish-portfolio/static/media/caesar.ca11a05460ceba8f5bc6.png",
+    "static/media/night-owl.png": "/MatthewStandish-portfolio/static/media/night-owl.89367693213605f1628a.png",
+    "static/media/theshelve.png": "/MatthewStandish-portfolio/static/media/theshelve.b603d207543ad901be19.png",
+    "static/media/weather-monitor.png": "/MatthewStandish-portfolio/static/media/weather-monitor.3816db26dd381a567e2b.png",
+    "static/media/avatar.jpg": "/MatthewStandish-portfolio/static/media/avatar.80aa63899f37f8000c40.jpg",
+    "static/media/web-agenda.png": "/MatthewStandish-portfolio/static/media/web-agenda.148ab767abaa9174173b.png",
+    "static/media/javascript-coding-quiz.png": "/MatthewStandish-portfolio/static/media/javascript-coding-quiz.01464ab14d4a9d874199.png",
+    "index.html": "/MatthewStandish-portfolio/index.html",
+    "main.e2860699.css.map": "/MatthewStandish-portfolio/static/css/main.e2860699.css.map",
+    "main.bc70a1ed.js.map": "/MatthewStandish-portfolio/static/js/main.bc70a1ed.js.map",
+    "787.a2cb61a6.chunk.js.map": "/MatthewStandish-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2860699.css",
+    "static/js/main.bc70a1ed.js"
+  ]
+}
